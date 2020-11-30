@@ -13,7 +13,8 @@ Player model is based on the [Kenney Character Assets](https://kenney.itch.io/ke
 Features included:
 + animated user-controlled player
 + camera
-+ terrain and objects
++ terrain
++ targets
 
 ## References
 None
