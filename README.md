@@ -1,8 +1,25 @@
-# 3D-Character
-
-An animated 3D character that can be used in the 3D-RPG project.
-
-Based on the [Kenney Character Assets](https://kenney.itch.io/kenney-character-assets) provided by kenney.nl. The model and animations were compiled in Blender and then imported into Godot.
+# 05-3D-RPG
+Project 5 -- 3D RPG, 30 November 2020
 
 ## Implementation
 Created in Blender 2.90.1 and Godot 3.2.2
+
+Assets are obtained from:
++ https://kenney.nl/assets/blaster-kit
++ https://www.patreon.com/posts/blender-export-16916038
+
+Player model is based on the [Kenney Character Assets](https://kenney.itch.io/kenney-character-assets) provided by kenney.nl. The model and animations were compiled in Blender and then imported into Godot.
+
+Features included:
++ animated user-controlled player
++ camera
++ terrain and objects
+
+## References
+None
+
+## Future Development
+None
+
+## Created by
+Cadence Low
