@@ -6,12 +6,14 @@ Created in Blender 2.90.1 and Godot 3.2.2
 
 Assets are obtained from:
 + https://kenney.nl/assets/blaster-kit
++ https://www.patreon.com/posts/blender-export-16916038
 
 Player model is based on the [Kenney Character Assets](https://kenney.itch.io/kenney-character-assets) provided by kenney.nl. The model and animations were compiled in Blender and then imported into Godot.
 
 Features included:
-+ user-controlled player
++ animated user-controlled player
 + camera
++ terrain and objects
 
 ## References
 None
