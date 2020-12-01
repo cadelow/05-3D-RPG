@@ -3,7 +3,9 @@ extends KinematicBody
 onready var Dialogue = get_node("/root/Game/UI/Dialogue")
 var dialogue = [
 	"Welcome to the game! (Press E to continue)",
-	"To win the game, you must shoot all 5 targets before you run out of time."
+	"To win the game, you must shoot all 5 targets and then destroy the drone before you run out of time.",
+	"Be careful! The drone can shoot and hurt you!",
+	"You will have 1 minute. You ready? The game will start after you press E"
 ]
 
 func _ready():
@@ -18,6 +20,6 @@ func _on_Area_body_exited(body):
 
 func finished():
 	get_node("/root/Game/Target_container").show()
-	Global.timer = 120
+	Global.timer = 5
 	Global.update_time()
 	get_node("/root/Game/UI/Timer").start()
