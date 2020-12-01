@@ -1,6 +1,8 @@
 # 05-3D-RPG
 Project 5 -- 3D RPG, 30 November 2020
 
+A simple 3D third person shooter game.
+
 ## Implementation
 Created in Blender 2.90.1 and Godot 3.2.2
 
