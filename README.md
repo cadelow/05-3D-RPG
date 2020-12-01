@@ -19,9 +19,9 @@ Features included:
 + NPC
 + dialogue
 + scoring system
-+ health system
 + weapon and animation of interacting with weapon
 + AI agent
++ game over scenes
 
 ## References
 None
