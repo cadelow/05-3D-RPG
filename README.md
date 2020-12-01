@@ -18,6 +18,10 @@ Features included:
 + targets
 + NPC
 + dialogue
++ scoring system
++ health system
++ weapon and animation of interacting with weapon
++ AI agent
 
 ## References
 None
